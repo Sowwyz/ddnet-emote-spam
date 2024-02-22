@@ -1,0 +1,1 @@
+# ddnet-emote-spam
