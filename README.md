@@ -6,9 +6,11 @@
 - 🔗 [Youtube Channel]([https://www.youtube.com/channel/UCk4_3MQO20ilo-3uIUAUvyA))
 - 🔗 [Support Discord](https://discord.com/users/1157912994051792898)
 
-# Features   
+# About me   
 
-+ Emote spam 
++ Join a random server and open f1 console
++ ' executing sowwyz.cfg ' paste this code into the console
++  W A S D click and try! enjoy ^^
 
  
 # Images 
